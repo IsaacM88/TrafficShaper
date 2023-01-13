@@ -1,7 +1,5 @@
 #!/bin/sh
 
-# Everything set by this script will reset to default when the computer restarts.
-
 # Define variables
 tcBin=`which tc` # Path to Traffic Control binary.
 ipBin=`which ip` # Path to ip binary.
