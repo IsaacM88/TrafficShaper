@@ -16,8 +16,8 @@ vi /path/trafficshaper.sh
 ```
 Run the script with start/stop/status arguments.
 ```
-sudo sh /path/trafficshaper.sh status
-sudo sh /path/trafficshaper.sh stop
-sudo sh /path/trafficshaper.sh start
+sudo bash /path/trafficshaper.sh status
+sudo bash /path/trafficshaper.sh stop
+sudo bash /path/trafficshaper.sh start
 ```
 Run LibreSpeed test: https://librespeed.org/
