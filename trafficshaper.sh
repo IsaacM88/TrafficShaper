@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 # Define variables
 tcBin=`which tc` # Path to Traffic Control binary.
