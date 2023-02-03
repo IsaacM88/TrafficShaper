@@ -1,5 +1,5 @@
 # TrafficShaper
-This is a bash script to shape network traffic on a computer by limiting upload and download bandwidth with tc. All settings changed by this script will reset to their defaults when the computer restarts. This script was tested on Fedora Workstation 37.
+This is a bash script to shape network traffic on a computer by limiting upload and download bandwidth using tc. All settings changed by this script will reset to their defaults when the computer restarts. This script was tested on Fedora Workstation 37.
 
 Install Traffic Control package.
 ```
