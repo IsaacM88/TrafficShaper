@@ -16,8 +16,8 @@ ethtool -k <INTERFACE>
 ```
 Run the script with start/stop/status arguments.
 ```
-sudo bash /path/trafficshaper.sh status
-sudo bash /path/trafficshaper.sh stop
-sudo bash /path/trafficshaper.sh start
+sudo bash /<PATH>/trafficshaper.sh status
+sudo bash /<PATH>/trafficshaper.sh stop
+sudo bash /<PATH>/trafficshaper.sh start
 ```
 Run LibreSpeed test: https://librespeed.org/
